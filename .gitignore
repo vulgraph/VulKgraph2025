@@ -1,6 +1,9 @@
 # 保留用户指定的路径
 !document/data/Project/
 
+# 忽略Centris-public目录
+src/Centris-public/
+
 # Python相关
 __pycache__/
 *.py[cod]
