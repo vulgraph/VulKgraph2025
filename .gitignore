@@ -281,3 +281,9 @@ output/
 *.docx
 *.ppt
 *.pptx
+
+# 敏感信息和提交相关文件
+论文提交相关.md
+*token*.md
+*credential*.md
+*secret*.md
