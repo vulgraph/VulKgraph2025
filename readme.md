@@ -1,0 +1,7 @@
+环境 KnowledgeGraph
+step_0_Node.py 定义四种节点
+step_1_Preprocess.py 预处理
+step_2_Relationship.py 处理库和版本节点
+step_3_process_CVE.py 处理漏洞节点
+step_4_PatchNodeExtraction.py 处理补丁节点
+step_5_VulnerabilityPropagation.py 未完成的漏洞传播路径提取
