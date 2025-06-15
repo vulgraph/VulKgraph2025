@@ -1,6 +1,4 @@
 # 保留用户指定的路径
-/home/deeplearning/nas-files/github_push_dir/Vulgraph-Gao/document/data/Project
-
 # Python相关
 __pycache__/
 *.py[cod]
