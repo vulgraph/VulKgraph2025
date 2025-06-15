@@ -40,7 +40,7 @@ results = detector.detect_all_reuse(project_path, project_name, project_author)
 ## Repository Structure
 
 ```
-document/
+src/
 ├── CodeCloneDetector.py           # Algorithm 1 implementation
 ├── step_0_Node.py                 # Knowledge graph node definitions
 ├── step_1_Preprocess.py           # Data preprocessing
