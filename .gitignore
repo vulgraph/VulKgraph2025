@@ -8,7 +8,8 @@ src/Centris-public/
 src/CCScanner_dataset/repo2dep.json
 src/CCScanner_dataset/repo2dep_history.json
 src/CCScanner_dataset/CCScanner_dataset.zip
-
+src/CCScanner_dataset/ground_truth.json
+src/CCScanner_dataset/repos.json
 # Python相关
 __pycache__/
 *.py[cod]
