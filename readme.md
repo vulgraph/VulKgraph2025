@@ -1,4 +1,4 @@
-# VulnGraph: C/C++ Vulnerability Propagation Analysis
+# VulKGraph: C/C++ Vulnerability Propagation Analysis
 
 This repository contains the implementation of **Algorithm 1: Comprehensive Software Reuse Detection** from our paper "VulnGraph: Quantitative Analysis of Vulnerability Propagation in the C/C++ Software Ecosystem Using Knowledge Graphs".
 
