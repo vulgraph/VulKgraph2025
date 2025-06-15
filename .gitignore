@@ -4,6 +4,11 @@
 # 忽略Centris-public目录
 src/Centris-public/
 
+# 忽略大文件 (>100MB)
+src/CCScanner_dataset/repo2dep.json
+src/CCScanner_dataset/repo2dep_history.json
+src/CCScanner_dataset/CCScanner_dataset.zip
+
 # Python相关
 __pycache__/
 *.py[cod]
