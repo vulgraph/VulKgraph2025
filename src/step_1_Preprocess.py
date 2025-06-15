@@ -142,7 +142,12 @@ def cloning_threads(repos, chunk_size=200):
 
 
 
-def fetch_github_repositories(language ,max_stars,min_stars=1000,token="***REMOVED***",):
+def fetch_github_repositories(language ,max_stars,min_stars=1000,token=None,):
+    # 获取GitHub token，优先使用参数，然后环境变量，最后使用空值
+    if token is None:
+        token = os.environ.get('GITHUB_TOKEN', '')
+    if not token:
+        raise ValueError("GitHub token is required. Please set GITHUB_TOKEN environment variable or pass token parameter.")
     headers = {
         'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json'  # 使用正确的媒体类型
