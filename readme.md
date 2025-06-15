@@ -54,8 +54,8 @@ document/
 ## Citation
 
 ```bibtex
-@article{vulgraph2025,
-  title={VulGraph: Quantitative Analysis of Vulnerability Propagation in the C/C++ Software Ecosystem Using Knowledge Graphs},
+@article{VulKgraph2025,
+  title={VulKgraph: Quantitative Analysis of Vulnerability Propagation in the C/C++ Software Ecosystem Using Knowledge Graphs},
   author={Anonymous},
   year={2025}
 }
