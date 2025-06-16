@@ -55,7 +55,7 @@ src/
 
 ```bibtex
 @article{VulKgraph2025,
-  title={VulKgraph: Quantitative Analysis of Vulnerability Propagation in the C/C++ Software Ecosystem Using Knowledge Graphs},
+  title={VulKgraph: A Novel Framework for Tracking Vulnerability Propagation in C/C++ Ecosystems Using Knowledge Graphs},
   author={Anonymous},
   year={2025}
 }
